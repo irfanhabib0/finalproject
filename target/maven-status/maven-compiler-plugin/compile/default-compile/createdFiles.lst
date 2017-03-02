@@ -1,0 +1,4 @@
+com\Demoregister\dao\productDAOImpl.class
+com\Demoregister\controller\ProductController.class
+com\Demoregister\dao\productDAO.class
+com\Demoregister\model\Product.class
